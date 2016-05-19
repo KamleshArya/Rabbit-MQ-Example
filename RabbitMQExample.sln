@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQTest1", "RabbitMQTest\RabbitMQTest1.csproj", "{2F69A0FB-A03B-4BA6-98AB-249FCA84398C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqTest2", "RabbitMqTest2\RabbitMqTest2.csproj", "{CBB25ECD-CE98-43F8-879F-695545279AD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F69A0FB-A03B-4BA6-98AB-249FCA84398C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F69A0FB-A03B-4BA6-98AB-249FCA84398C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F69A0FB-A03B-4BA6-98AB-249FCA84398C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F69A0FB-A03B-4BA6-98AB-249FCA84398C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB25ECD-CE98-43F8-879F-695545279AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB25ECD-CE98-43F8-879F-695545279AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB25ECD-CE98-43F8-879F-695545279AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB25ECD-CE98-43F8-879F-695545279AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQTest.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMqTest2.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMqTest2.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\bin\Debug\RabbitMQ.Client.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\RabbitMQTest\RabbitMQTest\obj\Debug\RabbitMQTest.pdb
